@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anurag200/static/css/main.5d5da590.css",
+    "main.js": "/anurag200/static/js/main.bc04f77c.js",
+    "static/js/787.856a2c82.chunk.js": "/anurag200/static/js/787.856a2c82.chunk.js",
+    "index.html": "/anurag200/index.html",
+    "main.5d5da590.css.map": "/anurag200/static/css/main.5d5da590.css.map",
+    "main.bc04f77c.js.map": "/anurag200/static/js/main.bc04f77c.js.map",
+    "787.856a2c82.chunk.js.map": "/anurag200/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5da590.css",
+    "static/js/main.bc04f77c.js"
+  ]
+}
